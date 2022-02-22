@@ -1,0 +1,18 @@
+ <html>
+    <head>
+    <script type="text/javascript">
+    function setfocus()
+    {
+            document.forms[0].txt.select();
+            document.forms[0].txt.focus();
+    }
+    </script>
+    </head>
+
+    <body>
+    <form>
+    <input type="text" name="txt" size="30" value="¡Hola mundo!">
+    <input type="button" value="Selecciona texto" onclick="setfocus()">
+    </form>
+    </body>
+    </html>
