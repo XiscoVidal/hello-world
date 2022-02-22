@@ -1,3 +1,3 @@
-# Thefirst
+# The_first
 First repository
-:coffee: 🐱 💻
+🐱 💻
